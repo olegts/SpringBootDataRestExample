@@ -1,0 +1,10 @@
+{
+    "_embedded" : {
+        "users" : [
+            {
+                "firstName" : "Oleg",
+                "lastName" : "Tsal-Tsalko"
+            }
+        ]
+    }
+}
